@@ -1,0 +1,1 @@
+This is the test to get acces to this file throw ajax call
